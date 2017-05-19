@@ -4,7 +4,7 @@
 
 ### Who?
 
-DevWorld at any given time be invite only or upen to anyone with the pack. It depends on what is being tested and what stage it is in.
+DevWorld at any given time will be invite only or open to anyone with the pack. It depends on what is being tested and what stage it is in.
 
 ### What?
 
@@ -17,16 +17,16 @@ Information will be included in the pack when it is handed out.
 
 ### When?
 
-Anytime something large is going to change DevWorld will be setup to make sure that things will go smooth.
+Anytime something large is going to change, DevWorld will be set up to make sure that things will go smooth.
 
 ### Why?
 
-We try to keep Ent World and any other packs we make or run as stable as posible. If we don't do this our work would take longer to do
+We try to keep Ent World and any other packs we make or run as stable as possible. If we don't do this our work would take longer to do
 with the tough standards we reqire of any project.
 
 # HALP I found something wrong!
 
-If you find an issue with anything that you think is unintended or flat out wrong post an issue in the "Issues" section. Include all the
+If you find an issue with anything that you think is unintended or flat out wrong, post an issue in the "Issues" section. Include all the
 information you can think of to help us find out whats going on and get it fixed if it needs to be. If you are having trobules you can 
 contact Claycorp on Twitch App or on Twitter (@clay_corp). Here in the issues section would be best as the issues can be tracked and 
 shared easier.
@@ -34,7 +34,9 @@ shared easier.
 
 # I want to help! Let me in!
 
-Unless the current task is open to everyone you can only be invited in. Typicly the better you are with the tools and minecraft the more
+Unless the current task is open to everyone you can only be invited in. Typically the better you are with the tools and Minecraft the more
 likely you will be selected. Personaly I (Claycorp) don't like doing it like this but this is the best way for me to get lots of issues
-fix with minimal time on follow-up on trying to get issue information or tracking people down because they told someone else. If you are
-still intrested [fill this out this survey.](https://goo.gl/forms/F8CparzbmpnapyUh2)
+fixed with minimal time on follow-up on trying to get issue information or tracking people down because they told someone else. If you are
+still intrested [fill this out this survey.](https://goo.gl/forms/F8CparzbmpnapyUh2)e
+
+Edited by Ash_Gamez
